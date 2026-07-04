@@ -18,7 +18,7 @@ license="MIT"
 
 [[mods]]
     modId="bedrockbreaker"
-    version="1.0.0"
+    version="1.20.1-1.0.0"
     displayName="Bedrock Breaker by shishen575"
     authors="shishen575"
     logoFile="icon.png"
