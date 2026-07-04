@@ -20,6 +20,7 @@ license="MIT"
     modId="bedrockbreaker"
     version="1.0.0"
     displayName="Bedrock Breaker"
+    authors="shishen575"
     logoFile="icon.png"
     description='''
 Allows players to break bedrock using diamond-tier tools or above.
