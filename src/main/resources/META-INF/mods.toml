@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.bedrockbreaker]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bedrockbreaker]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+    modId="bedrockbreaker"
+    version="1.0.0"
+    displayName="Bedrock Breaker"
+    logoFile="icon.png"
+    description='''
+Allows players to break bedrock using diamond-tier tools or above.
+The bottom layer (Y=-64) remains indestructible to prevent falling into the void.
+Broken bedrock drops nothing.
+Compatible with all modded tools through Forge's standard interfaces,
+including AOE hammers and custom tool systems.
+'''

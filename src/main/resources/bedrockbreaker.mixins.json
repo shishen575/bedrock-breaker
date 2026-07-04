@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.bedrockbreaker.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "bedrockbreaker.refmap.json",
+  "mixins": [
+    "BedrockMixin",
+    "BedrockStateMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
